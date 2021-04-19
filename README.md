@@ -1,7 +1,9 @@
 # Lebenslauf
 
 Leon Steinbach
+
 [www.steinba.de](https://www.steinba.de)
+
 **Tel.:** 01522 12345678
 
 ## Bildungsweg
