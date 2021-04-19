@@ -1,5 +1,7 @@
 # Lebenslauf
 
+![Icon](icon.png)
+
 Leon Steinbach
 
 [www.steinba.de](https://www.steinba.de)
